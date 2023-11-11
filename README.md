@@ -1,4 +1,5 @@
 # Diabetes Prediction Model
+![image](https://github.com/YaseminOzturkk/feature_engineering/assets/48058898/908f8a07-b550-4792-b3a4-3b206c8eb4c7)
 
 
 This project aims to develop a machine learning model to predict whether individuals have diabetes or not. The dataset used in the project is part of a large dataset maintained by the National Institute of Diabetes and Digestive and Kidney Diseases in the United States. The data was collected as part of a diabetes study conducted on Pima Indian women aged 21 and over in Phoenix, the fifth-largest city in the state of Arizona.
