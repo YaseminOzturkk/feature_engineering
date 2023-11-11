@@ -31,7 +31,7 @@ This project aims to develop a machine learning model to predict whether individ
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/diabetes-prediction.git`
+1. Clone this repository: `git clone https://github.com/yourusername/feature_engineering.git`
 2. Navigate to the project directory: `cd diabetes-prediction`
 3. Install the necessary dependencies: `pip install -r requirements.txt`
 4. Follow the project steps using Jupyter Notebook or Python script files.
